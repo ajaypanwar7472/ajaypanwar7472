@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]()**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://ajaypanwar7472.github.io/Portfolio/)**
 
 - 💬 Ask me about anything, I am happy to help
 
