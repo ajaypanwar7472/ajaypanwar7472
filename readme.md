@@ -6,7 +6,7 @@
 
 <div align="center" style="margin-top:20px;">
 <a href="#contact" style="padding:10px;"><img height="40px" width="180px" src="https://img.shields.io/badge/Contact Me-7952B3.svg?Color=white"></a>
-<a href="ajay_resume.pdf" style="padding:10px;"><img height="40px" width="180px" src="https://img.shields.io/badge/See My Resume-7952B3.svg?Color=white"></a>
+<a href="ajaycv.pdf" style="padding:10px;"><img height="40px" width="180px" src="https://img.shields.io/badge/See My Resume-7952B3.svg?Color=white"></a>
 </div>
 </div>
 
